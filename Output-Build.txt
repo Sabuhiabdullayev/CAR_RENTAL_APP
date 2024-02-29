@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: S_CAR, Configuration: Debug Any CPU ------
+1>D:\programs\S_CAR\S_CAR\Form3.cs(63,61,63,70): error CS0103: The name 'txt_vaxt1' does not exist in the current context
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

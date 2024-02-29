@@ -1,0 +1,22 @@
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\bin\Debug\XanderUiDemo.exe.config
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\bin\Debug\XanderUiDemo.exe
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\bin\Debug\XanderUiDemo.pdb
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\bin\Debug\XanderUI.dll
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.csprojResolveAssemblyReference.cache
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.Form1.resources
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.Properties.Resources.resources
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.csproj.GenerateResource.Cache
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.exe
+c:\users\ploto\documents\visual studio 2015\Projects\XanderUiDemo\XanderUiDemo\obj\Debug\XanderUiDemo.pdb
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\bin\Debug\XanderUiDemo.exe.config
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\bin\Debug\XanderUiDemo.exe
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\bin\Debug\XanderUiDemo.pdb
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\bin\Debug\XanderUI.dll
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\obj\Debug\XanderUiDemo.csprojAssemblyReference.cache
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\obj\Debug\XanderUiDemo.Form1.resources
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\obj\Debug\XanderUiDemo.Properties.Resources.resources
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\obj\Debug\XanderUiDemo.csproj.GenerateResource.cache
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\obj\Debug\XanderUiDemo.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\obj\Debug\XanderUiDemo.csproj.CopyComplete
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\obj\Debug\XanderUiDemo.exe
+C:\Users\pLoTo\Desktop\XanderUiDemo-master\XanderUiDemo\obj\Debug\XanderUiDemo.pdb
